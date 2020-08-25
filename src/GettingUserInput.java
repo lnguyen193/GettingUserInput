@@ -18,7 +18,7 @@ public class GettingUserInput {
         age =keybd.nextInt(); //age = 26 \n
         keybd.nextLine(); //the Scanner moves past the \n
 
-        System.out.println("Your are "+ age + " years old!");
+        System.out.println("You are "+ age + " years old!");
 
         System.out.println("What is your last name?");
 
